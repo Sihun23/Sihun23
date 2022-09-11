@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm 24. 
-I hope to develop my coding skills during the OpenSource Class.
-Be careful for Corona Virus.
+I'm trying my best to develop my coding skills during the OpenSource Class.
+Be careful for Corona Virus!
 I hope everyone is always with happiness:)
 
 <!--
