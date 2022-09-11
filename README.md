@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm 24. 
+I hope to develop my coding skills during the OpenSource Class.
+Be careful for Corona Virus.
+I hope everyone is always with happiness:)
 
 <!--
 **Sihun23/Sihun23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
