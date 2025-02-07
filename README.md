@@ -1,15 +1,11 @@
 ## 👋 Welcome to Sihun's GitHub!
 
 [![GitHub Profile Badge](https://render.gitanimals.org/lines/Sihun23?pet-id=1)](https://github.com/devxb/gitanimals)
-
 ---
-
 ### 🚀 About Me
 - **Backend Developer** | **Wireless Intelligence Network Lab**
 - Interested in **Cloud Computing/Edge Computing/Network**
-
 ---
-
 ### 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
