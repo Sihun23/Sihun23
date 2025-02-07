@@ -1,4 +1,4 @@
-## 👋 Sihun23의 깃허브에 오신 것을 환영합니다!
+## 👋 Sihun23's GitHub
 
 [![GitHub 프로필 배지](https://render.gitanimals.org/lines/Sihun23?pet-id=1)](https://github.com/devxb/gitanimals)
 ---
