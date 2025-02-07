@@ -26,10 +26,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> 
 </p>
 
-#### 💻 Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black"/> 
-</p>
 
 #### 🛠️ Tools
 <p align="left">
