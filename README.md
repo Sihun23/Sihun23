@@ -3,8 +3,8 @@
 [![GitHub 프로필 배지](https://render.gitanimals.org/lines/Sihun23?pet-id=1)](https://github.com/devxb/gitanimals)
 ---
 #### 🚀 소개
-- **백엔드 개발자** | **무선 지능형 네트워크 연구실**
-- 관심 분야: **클라우드 컴퓨팅 / 엣지 컴퓨팅 / 네트워크**
+- **Backend 개발자** | **무선 지능형 네트워크 연구실**
+- 관심 분야: **BE/Infra/Cloud Computing/Edge Computing**
 ---
 ### ✨ Tech Stack ✨
 
