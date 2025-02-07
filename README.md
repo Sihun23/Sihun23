@@ -2,30 +2,35 @@
 
 [![GitHub 프로필 배지](https://render.gitanimals.org/lines/Sihun23?pet-id=1)](https://github.com/devxb/gitanimals)
 ---
-### 🚀 소개
+#### 🚀 소개
 - **백엔드 개발자** | **무선 지능형 네트워크 연구실**
 - 관심 분야: **클라우드 컴퓨팅 / 엣지 컴퓨팅 / 네트워크**
 ---
 ### ✨ Tech Stack ✨
+
 #### 🖥️ Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/> 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/> 
 </p>
+
 #### 📚 Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/>
 </p>
+
 #### 🗄️ Databases
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> 
 </p>
+
 #### 💻 Platforms
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black"/> 
 </p>
+
 #### 🛠️ Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/> 
@@ -37,17 +42,3 @@
 </p>
 
 
----
-
-### 📊 깃허브 통계
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devxb&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=devxb&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-### 🌎 연락하기
-[![이메일](https://img.shields.io/badge/Email-devxb@github.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devxb@github.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sihun-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sihun)
