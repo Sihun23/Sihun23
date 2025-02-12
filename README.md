@@ -4,7 +4,7 @@
 ---
 #### 🚀 소개
 - **Backend 개발자** | **무선 지능형 네트워크 연구실**
-- 관심 분야: **BE/Infra/Cloud Computing/Edge Computing**
+- 관심 분야: **BE/Infra/Network/Cloud/Edge Computing**
 ---
 ### ✨ Tech Stack ✨
 
