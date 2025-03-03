@@ -3,7 +3,7 @@
 [![GitHub 프로필 배지](https://render.gitanimals.org/lines/Sihun23?pet-id=1)](https://github.com/devxb/gitanimals)
 ---
 #### 🚀 소개
-- **Backend Developer**| **WINL Student Research Assistant**
+- **Backend Developer** | **WINL Student Research Assistant**
 - Interested in... : **BE/Infra/Cloud/Network/Edge Computing**
 ---
 ### ✨ Tech Stack ✨
