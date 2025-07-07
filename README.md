@@ -5,7 +5,7 @@
 ---
 
 #### 🚀 소개
-- **Backend Developer** | **WINL Student Research Assistant**
+- **Backend Developer** **Infra Engineer**
 - Interested in... : **Be/Infra/Cloud/Network/Edge Computing**
 
 ---
