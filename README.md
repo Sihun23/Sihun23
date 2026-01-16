@@ -5,7 +5,7 @@
 ---
 
 #### 🚀 소개
-- **Backend Developer** **Infra Engineer**
+-  **Cloud Engineer**
 - Interested in... : **Be/Infra/Cloud/Network/Edge Computing**
 
 ---
