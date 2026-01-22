@@ -6,7 +6,7 @@
 
 #### 🚀 소개
 -  **Cloud Engineer**
-- Interested in... : **Be/Infra/Cloud/Network/Edge Computing**
+- **Infra/Cloud/Network**
 
 ---
 
